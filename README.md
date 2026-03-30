@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/scrapi/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rockcesar1/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesar-ariza-duarte-212280278/)
-[![](https://img.shields.io/badge/-000000.svg?logo=X&logoColor=white)](https://x.com/CesarAriza1)
+[![](https://img.shields.io/badge/-ffffff.svg?logo=X&logoColor=black)](https://x.com/CesarAriza1)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
